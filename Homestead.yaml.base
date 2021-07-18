@@ -30,7 +30,7 @@ features:
 
 services:
    - enabled:
-       - "mariadb"
+       - "mysql"
    - disabled:
        - "postgresql@12-main"
        - "postgresql@11-main"
